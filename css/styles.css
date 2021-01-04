@@ -15,8 +15,12 @@ a {
     text-decoration: none;
 }
 
-li {
+/*li {
     list-style-type: none;
+}*/
+
+li {
+    list-style: none;
 }
 
 .list {
@@ -89,7 +93,7 @@ a {
 
 ul {
     display: block;
-    list-style-type: disc;
+    list-style: disc;
     margin-block-start: 1em;
     margin-block-end: 1em;
     margin-inline-start: 0px;
